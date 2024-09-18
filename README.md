@@ -24,5 +24,5 @@
   > 식별 후 의존성이 필요하다고 파악되면, 찾아서 생성자 주입을 통해 자동 와이어링 함.
   
 
-  ### Spring Framework 고급기능
+### Spring Framework 고급기능
   
