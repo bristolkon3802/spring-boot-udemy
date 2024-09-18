@@ -6,6 +6,6 @@
 - @Qualifier: 특정하게 지정된 Bean을 자동 와이어링 함.
 - @Autowired: 가정 적합한 Bean을 달라고 요청.
 
-* @Primary 와 @Qualifer 중에서 선택할 때는 항상 특정 의존선을 사용하는 클래스 관점에서 생각 후 사용.
-* @Qualifer 가 @Primary 보다 더 높은 우선순위를 갖고 있음.
+> @Primary 와 @Qualifer 중에서 선택할 때는 항상 특정 의존선을 사용하는 클래스 관점에서 생각 후 사용. <br/>
+> @Qualifer 가 @Primary 보다 더 높은 우선순위를 갖고 있음.
 
